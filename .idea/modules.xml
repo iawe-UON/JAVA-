@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/heima.iml" filepath="$PROJECT_DIR$/.idea/heima.iml" />
       <module fileurl="file://$PROJECT_DIR$/interface/interface.iml" filepath="$PROJECT_DIR$/interface/interface.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/heima.iml" filepath="$PROJECT_DIR$/heima.iml" />
+>>>>>>> 92d2700d99d0f25b2d1e8c93e3f8e10f6cd31c3f
     </modules>
   </component>
 </project>
